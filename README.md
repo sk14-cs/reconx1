@@ -35,10 +35,10 @@ It integrates multiple tools into a centralized dashboard for efficient scanning
 ## 📸 Screenshots
 
 ### 🔹 Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/Dashboard.png)
 
 ### 🔹 Scan Results
-![Scan Results](assets/screenshots/Scan Engine.png)
+![Scan Results](assets/screenshots/ScanEngine.png)
 
 ---
 
