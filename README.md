@@ -37,8 +37,8 @@ It integrates multiple tools into a centralized dashboard for efficient scanning
 ### 🔹 Dashboard
 ![Dashboard](assets/screenshots/Dashboard.png)
 
-### 🔹 Scan Results
-![Scan Results](assets/screenshots/ScanEngine.png)
+### 🔹 Scan Engine
+![Scan Engine](assets/screenshots/ScanEngine.png)
 
 ---
 
