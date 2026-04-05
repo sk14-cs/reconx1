@@ -40,6 +40,9 @@ It integrates multiple tools into a centralized dashboard for efficient scanning
 ### 🔹 Scan Engine
 ![Scan Engine](assets/screenshots/ScanEngine.png)
 
+### 🔹 Reports
+![Reports](assets/screenshots/reports.png)
+
 ---
 
 ## 🏗️ Architecture (High-Level)
