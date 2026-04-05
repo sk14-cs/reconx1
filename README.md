@@ -33,7 +33,12 @@ It integrates multiple tools into a centralized dashboard for efficient scanning
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
+
+### 🔹 Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### 🔹 Scan Results
+![Scan Results](assets/screenshots/Scan Engine.png)
 
 ---
 
